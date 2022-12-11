@@ -149,18 +149,18 @@
   <br/>
   <br/>
 
-## 📱 Wireframe
-
-[Figma](https://www.figma.com/file/aFFFni2Q5Q9Myu0sxVAQme/qhoto?node-id=0%3A1&t=Am2MciN9gJYOk3wV-1)<br>
-![figma](/uploads/bd718c2fcf2f641c14cd5ec059fcaa64/image.png)
 
 ## 📏 ERD
 
-![image](/uploads/16fa73c35c48fee6576f0eb6c3ab973f/image.png)
+![ERD](/assets/etc/ERD.png)
+
+<br/>
 
 ## 💻 Software Architecture
 
-![아키텍쳐](/uploads/2b2c320cbe213066acdd5231b96d15b3/아키텍쳐.jpg)
+![SA](/assets/etc/SA.jpg)
+
+<br/>
 
 ## 📋 Convention
 
@@ -267,22 +267,24 @@ master
   - **primary key → id (Long, auto increment)**
   - full length → **column 명**
 
+</br>
+
 ## 👪 팀원 소개
 
 <table>
     <tr>
-        <td height="140px" align="center"> <a href="https://github.com/PowerBBear">
-            <img src="assets/member/avatar1.png" /> <br><br> 👑 박명규 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/JunPark364">
-            <img src="assets/member/avatar2.png" /> <br><br> 🙂 김상현 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/pch8349">
-            <img src="assets/member/avatar3.png" /> <br><br> 😆 김정아 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/SilverLight96">
-            <img src="assets/member/avatar4.png" /> <br><br> 😁 박영준 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/heunhanireum">
-            <img src="assets/member/avatar6.png" /> <br><br> 🙄 유경훈 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/kkh9700">
-            <img src="assets/member/avatar5.png" /> <br><br> 😶 정형진 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center">
+            <img src="assets/member/avatar1.png" /> <br><br> 👑 박명규 <br>(Back-End) <br></td>
+        <td height="140px" align="center">
+            <img src="assets/member/avatar2.png" /> <br><br> 🙂 김상현 <br>(Back-End) <br></td>
+        <td height="140px" align="center">
+            <img src="assets/member/avatar3.png" /> <br><br> 😆 김정아 <br>(Back-End) <br></td>
+        <td height="140px" align="center">
+            <img src="assets/member/avatar4.png" /> <br><br> 😁 박영준 <br>(Front-End) <br></td>
+        <td height="140px" align="center">
+            <img src="assets/member/avatar6.png" /> <br><br> 🙄 유경훈 <br>(Front-End) <br></td>
+        <td height="140px" align="center">
+            <img src="assets/member/avatar5.png" /> <br><br> 😶 정형진 <br>(Front-End) <br></td>
     </tr>
     <tr>
         <td align="center">소셜 로그인<br/>서버 구축<br/>DB<br/></td>
