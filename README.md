@@ -274,24 +274,16 @@ master
 <table>
     <tr>
         <td height="140px" align="center">
-            <img src="assets/member/avatar1.png" /> <br><br> 👑 박명규 <br>(Back-End) <br></td>
+            <img src="assets/member/avatar1.png" /> <br><br> 👑 박명규 </td>
         <td height="140px" align="center">
-            <img src="assets/member/avatar2.png" /> <br><br> 🙂 김상현 <br>(Back-End) <br></td>
+            <img src="assets/member/avatar2.png" /> <br><br> 🙂 김상현 </td>
         <td height="140px" align="center">
-            <img src="assets/member/avatar3.png" /> <br><br> 😆 김정아 <br>(Back-End) <br></td>
+            <img src="assets/member/avatar3.png" /> <br><br> 😆 김정아 </td>
         <td height="140px" align="center">
-            <img src="assets/member/avatar4.png" /> <br><br> 😁 박영준 <br>(Front-End) <br></td>
+            <img src="assets/member/avatar4.png" /> <br><br> 😁 박영준 </td>
         <td height="140px" align="center">
-            <img src="assets/member/avatar6.png" /> <br><br> 🙄 유경훈 <br>(Front-End) <br></td>
+            <img src="assets/member/avatar6.png" /> <br><br> 🙄 유경훈 </td>
         <td height="140px" align="center">
-            <img src="assets/member/avatar5.png" /> <br><br> 😶 정형진 <br>(Front-End) <br></td>
-    </tr>
-    <tr>
-        <td align="center">소셜 로그인<br/>서버 구축<br/>DB<br/></td>
-        <td align="center">DB설계<br/>REST API<br/>
-        <td align="center">DB설계<br/>REST API<br/>
-        <td align="center">컴포넌트 구현<br/>발표</td>
-        <td align="center">컴포넌트 구현<br/>소셜 로그인<br/></td>
-        <td align="center">친구피드<br/>전체피드<br/></td>
+            <img src="assets/member/avatar5.png" /> <br><br> 😶 정형진 </td>
     </tr>
 </table>
